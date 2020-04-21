@@ -1,1 +1,1 @@
-web: gunicorn channel:server
+web: gunicorn postmethod2:server
