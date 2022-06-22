@@ -35,7 +35,7 @@ jsonschema==3.2.0
 MarkupSafe==1.1.1
 mysql-connector==2.2.9
 mysql-connector-python==8.0.19
-numpy==1.16.6
+numpy==1.22.0
 paho-mqtt==1.5.0
 pandas==0.24.2
 pathlib==1.0.1
